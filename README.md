@@ -2,7 +2,7 @@
 
 A machine learning-powered system that dynamically enforces privacy policies based on real-time analysis of data access patterns and user contexts.
 
-## 🛠️ Installation
+##  Installation
 
 1. Clone the repository
 
@@ -23,7 +23,7 @@ cp .env.example .env
 # Edit .env with your settings
 ```
 
-## 📋 Usage
+## Usage
 
 ### Basic Usage
 ```python
